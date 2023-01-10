@@ -1,0 +1,193 @@
+*{
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first{
+    text-align: left;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    padding-top: 60px;
+    padding-left: 50px;
+}
+.vip{
+    color: blue;
+}
+.text{
+    font-weight: 200;
+    padding-top: 30px;
+    font-weight: 200px;
+}
+.diff{
+    font-size: 52px;
+    font-weight: 1000;
+}
+.logo{
+    position: relative;
+    bottom: 15px;
+}
+.nav-link{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: small;
+}
+#basic-addon2{
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    position: relative;
+    right: 13px;
+}
+.form-control{
+    border-radius: 30px;
+    background-color: white;
+    color: rgb(102, 102, 102);
+}
+.ex{
+    color: rgb(97, 97, 97);
+    font-weight: 100;
+    font-size: small;
+}
+.col-md-12{
+    padding-left: 350px;
+    border: 0ch;
+}
+.card{
+    background-color: white;
+    border: 0ch;
+    text-align: center;
+}
+.h-100{
+    position: relative;
+    top: 60px;
+}
+h3{
+    text-align: start;
+    font-weight: 900;
+}
+.card-body{
+    padding-left: 30px;
+}
+.t2{
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.hans{
+    background-image: url(https://th.bing.com/th/id/R.64ea2cfa455ab8a2ca395c2970c434d4?rik=UqVg1RQ0gIpUWw&riu=http%3a%2f%2fb.vimeocdn.com%2fts%2f350%2f458%2f350458174_640.jpg&ehk=sem0tFnjTHAvgGshgMfLHObQLFnBCBgMN9dDFbMxwbc%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1280px;
+    height: 190px;
+    padding-right: 400px;
+    position: relative;
+    right: 380px;
+    text-align: start;
+}
+.card-title{
+    background-color: transparent;
+    color: black;
+}
+#gt{
+    padding-right: 400px;
+}
+.LR{
+    position: relative;
+    left: 280px;
+    bottom: 230px;
+}
+.LT{
+    position: relative;
+    left: 620px;
+    bottom: 460px;
+}
+#tm{
+    border-radius: 30px;
+}
+.rs{
+    border: 2px solid black;
+    position: relative;
+    left: 180px;
+    bottom: 40px;
+    background-color: #fff;
+}
+.heading{
+    text-align: center;
+    color: rgb(0, 57, 95);
+    position: relative;
+    top: 30px;
+    padding-left: 500px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+    font-weight: 700;
+    background-color: transparent;
+}
+.mg{
+    color: blue;
+    font-weight: 400;
+    font-size: small;
+}
+.vc{
+    position: relative;
+    left: 290px;
+    top: 50px;
+}
+.heading2{
+    text-align: center;
+    color: rgb(0, 57, 95);
+    position: relative;
+    top: 30px;
+    padding-left: 420px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+    font-weight: 700;
+    background-color: transparent;
+}
+.heading3{
+    color: rgb(0, 57, 95);
+    font-size: x-large;
+    font-weight: 500;
+}
+.yt{
+    position: relative;
+    top: 150px;
+}
+.bt{
+    position: relative;
+    left: 380px;
+    text-align: center;
+}
+.tankz{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/667/028/large_2x/black-and-blue-material-design-background-modern-wallpaper-with-overlap-layers-with-free-space-for-your-text-widescreen-illustration-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1280px;
+    height: 190px;
+    padding-right: 400px;
+    position: relative;
+    right: 380px;
+}
+.card-title2{
+    background-color: transparent;
+    color: white;
+}
+.card-title3{
+    background-color: transparent;
+    color: blue;
+    text-align: start;
+}
+.dj{
+    background-color: transparent;
+    color: black;
+    font-weight: 500;
+    text-align: start;
+}
+.ot{
+    width: 200px;
+    box-shadow: black 0 0 3px, rgb(0, 153, 255) 4px 4px 10px;
+}
+.hy{
+    padding-left: 180px;
+    padding-top: 30px;
+}
+.card-body, .card-text, .card-link{
+    background-color: white;
+}
